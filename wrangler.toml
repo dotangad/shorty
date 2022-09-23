@@ -3,7 +3,7 @@ main = "src/index.js"
 compatibility_date = "2022-09-23"
 
 [vars]
-AIRTABLE_API_KEY = ""
+# AIRTABLE_API_KEY = ""
 AIRTABLE_BASE_ID = "appK1jDDu6pZJ8jy8"
 AIRTABLE_TABLE_NAME = "main"
 GITHUB_USERNAME = "dotangad"
