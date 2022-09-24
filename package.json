@@ -11,12 +11,6 @@
     "start": "wrangler dev",
     "deploy": "wrangler publish"
   },
-  "eslintConfig": {
-    "indent": [
-      "error",
-      2
-    ]
-  },
   "dependencies": {
     "airtable-plus": "^1.0.4"
   }
